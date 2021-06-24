@@ -1,0 +1,2 @@
+module ejemplosdeclases {
+}
